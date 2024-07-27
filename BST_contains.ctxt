@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BST_contains
+comment1.params=value
+comment1.target=boolean\ insert(int)
+comment2.params=value
+comment2.target=boolean\ contains(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

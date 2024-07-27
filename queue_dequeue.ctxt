@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=queue_dequeue
+comment1.params=value
+comment1.target=queue_dequeue(int)
+comment2.params=
+comment2.target=void\ printqueue()
+comment3.params=
+comment3.target=queue_dequeue.Node\ dequeue()
+comment4.params=value
+comment4.target=void\ enqueue(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
